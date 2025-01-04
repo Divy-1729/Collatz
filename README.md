@@ -10,7 +10,7 @@ This repository contains a collection of cool code inspired by and supplementing
 
 ## Repository Structure
 
-The repository contains the following key files and scripts:
+The code repository contains the following key files and scripts:
 
 - **[Check if progression is followed up to a given number.py](https://github.com/Divy-1729/Collatz/blob/main/Check%20if%20progression%20is%20followed%20upto%20a%20given%20number.py)**  
   A script to check if a progression follows the Collatz rules for a given range of numbers.
