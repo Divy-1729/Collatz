@@ -29,8 +29,8 @@ The code repository contains the following key files and scripts:
 
 - **[iterations average to reach 1.py](https://github.com/Divy-1729/Collatz/blob/main/iterations%20average%20to%20reach%201.py)**  
   Analysis of average iterations required to reach the number `1`.
-- **To be added**:
-  My paper covering my research
+- **[Reduction of Collatz](https://github.com/Divy-1729/Collatz/blob/main/Reduction_of_Collatz%20(1).pdf)**:
+  An initial draft of the motivation and mathematics behind my research and this repository.
 ## Getting Started
 
 1. Clone the repository:
